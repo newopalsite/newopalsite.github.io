@@ -1,0 +1,9 @@
+function get_started(what){
+    email = $('#'+what).value()
+    $.post('http://ohcucontakt.deadpansincerity.com/former.php', {
+        z_name: 'Unknown',
+        z_requester: email,
+        z_subject: 'OPAL Marketing site quick form',
+        z_description: 'I would like some more information about OPAL'
+    })
+}
