@@ -348,7 +348,7 @@ offset = - $('.navbar-header').height();
     $body.addClass('is-site-bg-video');
 
     $video.append('<video id="bgVideo" autoplay loop>' +
-                  '<source src="assets/video/video.mp4" type="video/mp4">' +
+                  '<source src="assets/video/ink.mp4" type="video/mp4">' +
                   '</video>');
 
     var bgVideo = document.getElementById('bgVideo');
