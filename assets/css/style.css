@@ -1,4 +1,4 @@
-/*!
+n/*!
  * Template Name: Flat Tech - Flat Landing Page Template
  * Author: bonefishcode
  */
@@ -6720,7 +6720,7 @@ form._default textarea {
 
 .is-site-bg-video .site-bg-img {
   display: block;
-  background-image: url(../img/bg/site-bg-video.jpg);
+  /* background-image: url(../img/bg/site-bg-video.jpg); */
 }
 
 .is-site-bg-video-youtube .site-bg-img {
